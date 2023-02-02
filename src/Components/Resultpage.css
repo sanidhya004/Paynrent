@@ -1,0 +1,167 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+.main-container{
+     background-color:  rgba(208, 206, 206, 0.252);
+     
+}
+.filterbar{
+        background-color: white;
+     height: 80%;
+     width: 30%;
+     padding-left: 5px;
+     margin-top: 20px;
+     margin-left: 10px;
+}
+.show{
+     background-color: white;
+     height: 100%;
+     width: 70%;
+    margin-bottom: 20px;
+     margin-top: 20px;
+     margin-left: 10px;
+     margin-right: 10px;
+}
+.brand{
+     margin-bottom: 4px;
+     margin-left: 5px;
+    
+}
+.test{
+     display: flex;
+     align-items: center;
+     justify-content: center; 
+}
+.searchbar{
+     width: 100%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+      background-color: rgb(232, 230, 230);
+      display: flex;
+      align-items: center;
+      justify-content: center; 
+}
+.filterbarHeadings{
+     padding-left: 6px;
+     padding-right: 6px;
+     font-family: Poppins;
+      display: flex;
+      justify-content: space-between;
+}
+.carcardcontainer{
+     background-color:white;
+     height: 110%;
+     width: 70%;
+     padding-bottom: 30px;
+     margin-top: 20px;
+     margin-left: 10px;
+     margin-right: 10px;
+}
+.show1{
+      height: auto;
+      font-family: Poppins;
+      width: 100%;
+     
+      margin-bottom: 10px;
+      background-color:  rgba(208, 206, 206, 0.252);
+      display: flex;
+      justify-content: space-between;
+}
+.cityshow{
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+}
+.petrol{
+     font-size: 16px;
+     display: flex;
+     align-items: center;
+
+}
+.adv{
+     font-size: 22px;
+     font-family: Poppins;
+    text-align: left;
+    font-weight: 500;
+    color: #1b1c24;
+    margin-left: 6px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+}
+.footer{
+      
+      width: 100%;
+      background: rgba(60, 65, 78, 0.93);
+      height:30vh;
+      color: white;
+      box-sizing: border-box;
+      
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      box-shadow: rgb(0 0 0 / 12%) 0px 1px 6px, rgb(0 0 0 / 12%) 0px 1px 4px;
+      border-radius: 2px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 700;
+    padding-left: 50px;
+    padding-top: 30px;
+    
+}
+.smallletter{
+     font-size: 14px;
+}
+.aboutservice{
+      height: 50vh;
+}
+.main {
+     display: flex;
+     flex-wrap: wrap;
+   
+   }
+   
+   .card {
+     display: flex;
+     flex-direction: column;
+        font-family: 'Poppins', sans-serif;
+         font-family: 'Roboto', sans-serif;
+      padding-left: 10px;
+      padding-right: 10px;
+     height: 300px;
+     width: 300px;
+     background-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+     box-shadow: rgba(0, 0, 0, 0.18) 2px 4px 4px;
+     border-radius: 20px;
+   }
+   .pic {
+     height: 50%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-top-left-radius: 20px;
+     border-top-right-radius: 20px;
+     background-color: white;
+     width: 100%;
+   }
+   .feature{
+        margin-top: 5px;
+         display: flex;
+         justify-content: space-between;
+         font-weight:lighter;
+         font-size: small;
+         margin-bottom: 15px;
+   
+   
+   }
+   .vehiclename{
+         font-weight: 900;
+         
+         font-size: 20px;
+         
+   }
+   .price{
+         font-size: 30px;
+   }
+   
+   

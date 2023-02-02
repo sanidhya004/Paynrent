@@ -1,0 +1,31 @@
+.maincoantiner{
+   
+    
+     height:100%;
+     width: 100%;
+     border-radius: 30px;
+
+}
+.cityselect{
+     display: flex;
+      
+     width:100% ;
+}
+.selectcitybutton{
+      border-color: white;
+      width: 100%;
+}
+.dialog{
+    height:1000px;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.dialogcontent{
+     width: 100%;
+}
+.schedule{
+     display: flex;
+}

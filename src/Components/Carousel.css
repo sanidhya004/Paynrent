@@ -1,0 +1,23 @@
+.btn{
+     width: 24px;
+     height: 24px;
+     
+     margin-top: 4.0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+.buttoncontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70%;
+ 
+}
+.cards{
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+     
+}
